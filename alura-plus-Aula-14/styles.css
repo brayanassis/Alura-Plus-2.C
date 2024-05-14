@@ -153,3 +153,29 @@ body {
     background-color: var(--botao-azul-efeito);
     color: var(--cor-de-fundo);
 }
+
+
+.dispositivos{
+text-align:center;
+}
+.dispositivos__titulo{
+    font-size:48px;
+    color:var(--branco-principal);
+}
+
+.lista__item{
+font-size:32px;
+    color:var(--branco-principal);
+}
+
+
+
+
+
+
+
+
+
+
+
+
